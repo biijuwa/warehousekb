@@ -1,0 +1,65 @@
+sidebarTitle: 
+owner: 
+
+## Keep this commented out content because it shows the YAML model for the sidebar.
+
+folders:
+- title: Dr TR Shipments
+  folderitems:
+  - title: How to create expected deliveries?
+    url: /htced.html
+
+  - title: How to import Vox ER/TR?
+    url: /htivertr.html
+
+- title: Orders
+  folderitems:
+  - title: Home
+    url: /index.html
+
+- title: Pick
+  folderitems:
+  - title: Home
+    url: /index.html
+
+- title: Packs
+  folderitems:
+  - title: Home
+    url: /index.html
+
+- title: Ship
+  folderitems:
+  - title: Home
+    url: /index.html
+
+- title: Customers
+  folderitems:
+  - title: Home
+    url: /index.html
+
+- title: Inventory
+  folderitems:
+  - title: Home
+    url: /index.html
+
+- title: Reports
+  folderitems:
+  - title: Home
+    url: /index.html
+
+- title: More
+  folderitems:
+  - title: Home
+    url: /index.html
+
+###########################
+
+related_resources_title: Frequently Asked Questions
+
+related_resources_list:
+
+- title: Settingup Woocommerce 
+  url: /index.html
+
+- title: Alternate SKU and UPC
+  url: /index.html
