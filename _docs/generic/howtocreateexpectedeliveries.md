@@ -1,6 +1,6 @@
 ---
 title: How to create Expected deliveries?
-permalink: warehousekb/htced.html
+permalink: htced.html
 sidebar: generic
 #tags: [getting-started, formatting]
 product: Generic
